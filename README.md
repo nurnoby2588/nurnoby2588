@@ -80,9 +80,6 @@ Skills: C, C#,C++,Java, PHP, SQl, Python React.js, Next.js, JavaScript, Material
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurnoby2588&show_icons=true&locale=en&layout=compact" alt="nurnoby2588" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurnoby2588&show_icons=true&locale=en" alt="nurnoby2588" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurnoby2588&" alt="nurnoby2588" /></p>
 

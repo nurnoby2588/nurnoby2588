@@ -46,6 +46,7 @@ Skills: C, C#,C++,Java, PHP, SQl, Python React.js, Next.js, JavaScript, Material
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: nurnoby323@gmail.com 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurnoby2588&label=Profile%20views&color=0e75b6&style=flat" alt="nurnoby2588" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -56,7 +57,6 @@ Skills: C, C#,C++,Java, PHP, SQl, Python React.js, Next.js, JavaScript, Material
 <a href="https://instagram.com/nurnoby2588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nurnoby2588" height="30" width="40" /></a>
 </p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurnoby2588&label=Profile%20views&color=0e75b6&style=flat" alt="nurnoby2588" /> </p>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 

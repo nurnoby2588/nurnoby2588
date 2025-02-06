@@ -1,13 +1,13 @@
 ![Full Stack Web Developer](https://media.licdn.com/dms/image/v2/D4D16AQGbBvlqJeX1UQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738779311121?e=1744243200&v=beta&t=QuZ7WIJuZMsFCiQNE36yHJYmbA9KBnFRB6WhYUL1jjQ)
 
 ## Hi there 👋, I'm Nurnoby Rahman
-#### Full Stack Web Developer
+### Full Stack Web Developer
 
 
 I’m a dedicated Full Stack Developer with a strong foundation in modern web technologies. My expertise lies in Next.js, Node.js, MongoDB, and MS SQL, and I love building scalable, efficient, and secure applications.
 
 Skills: C, C#,C++,Java, PHP, SQl, Python React.js, Next.js, JavaScript, Material UI, Tailwind CSS, Bootstrap, JWT , Firebase, MongoDB, MS SQL, Node.js, Express.js, ASP.NET Core (MVC), 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 

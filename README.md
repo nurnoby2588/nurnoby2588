@@ -66,7 +66,7 @@ Skills: C, C#,C++,Java, PHP, SQl, Python React.js, Next.js, JavaScript, Material
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/nurnoby2588/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/nurnoby2588)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nurnoby2588)  
 

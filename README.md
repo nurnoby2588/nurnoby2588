@@ -6,7 +6,7 @@
 
 I’m a dedicated Full Stack Developer with a strong foundation in modern web technologies. My expertise lies in Next.js, Node.js, MongoDB, and MS SQL, and I love building scalable, efficient, and secure applications.
 
-Skills: C, C#,C++,Java, PHP, SQl, Python React.js, Next.js, JavaScript, Material UI, Tailwind CSS, Bootstrap, JWT , Firebase, MongoDB, MS SQL, Node.js, Express.js, ASP.NET Core (MVC), 
+
 <h3 align="left">Skills:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>

@@ -1,4 +1,4 @@
-[![Full Stack Web Developer](https://media.licdn.com/dms/image/v2/D5616AQGt5wneX8yu5A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738813805810?e=1744243200&v=beta&t=y0WK72Au_ab2nV1s8G71SusuhbunJ4vt0E98zQhGwB0)]
+![Full Stack Web Developer](https://media.licdn.com/dms/image/v2/D5616AQGt5wneX8yu5A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738813805810?e=1744243200&v=beta&t=y0WK72Au_ab2nV1s8G71SusuhbunJ4vt0E98zQhGwB0)
 
 ## Hi there 👋, I'm Nurnoby Rahman
 ### Full Stack Web Developer

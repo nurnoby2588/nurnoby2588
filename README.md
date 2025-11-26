@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://drive.google.com/file/d/1axD0AWxUxU5TPEzRTi0Cdn7FXniycXu3/view?usp=drive_link)
+![Full Stack Web Developer](https://www.linkedin.com/in/nurnoby-rahman/overlay/background-photo/)
 
 ## Hi there 👋, I'm Nurnoby Rahman
 ### Full Stack Web Developer
